@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772683448425",
+    "project_id": "ukapp-5f3ea",
+    "storage_bucket": "ukapp-5f3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772683448425:android:717004b403cc72d67f22f8",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.umorototena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772683448425-th7o1grchmrsi89jtd9si0pgldscuit0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHETW-HAY8JdD6H6FFl2HfTYNdB-0GdKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772683448425-th7o1grchmrsi89jtd9si0pgldscuit0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
